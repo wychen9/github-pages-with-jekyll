@@ -1,3 +1,3 @@
 # Welcome to my blog
-
-I'm glad you are here. I plan to talk about ...
+## It's the first webpage I built on my own
+I'm glad you are here. 
