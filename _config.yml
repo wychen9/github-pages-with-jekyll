@@ -1,4 +1,7 @@
 theme: minima
+title: Your awesome title
+author: GitHub User
+email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
   The first webpage---- yeah---- XD
   Write an awesome description for your new site here. You can edit this
@@ -10,7 +13,6 @@ twitter_username: your-twitter-handle # DO NOT include the @ character, or else 
 github_username:  your-github-handle # DO NOT include the @ character, or else the build will fail!
 
 show_excerpts: true # set to false to remove excerpts on the homepage
-
 ---
 title: "Your blog post title"
 date: 2021-03-31
